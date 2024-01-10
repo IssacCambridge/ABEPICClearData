@@ -1,5 +1,5 @@
 # ABECleardata - Angry Birds Epic
-Discord - ashley.#2170
+Discord -
 
 This is a small project I created which allows you to clear your rovio account data, decode save file and encode all in one command.
 
